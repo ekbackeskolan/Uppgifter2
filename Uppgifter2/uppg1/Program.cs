@@ -2,7 +2,7 @@
  * Övningsuppgifter 2 - Uppgift 1
  * Skriv ett program som används i en omröstning och frågar efter antalet ja-röster, antalet nej-röster 
  * och antalet vet ej-röster. Sedan ger programmet en ut snygg utskrift som visar andelen röster i procent. 
- * Använd en lämplig avrundningsfunktion. T ex på färdig utskrift:
+ * Använd en lämplig avrundningsfunktion. Ex på färdig utskrift:
 
 Antal röster i procent:
 =======================
